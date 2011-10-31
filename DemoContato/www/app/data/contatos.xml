@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contatos>
+    <contato>
+        <nome>Joao</nome>
+        <sobrenome>Silva</sobrenome>
+        <email>joao@teste.com</email>
+        <telefone>9999-9999</telefone>
+        <endereco>Rua das Couves</endereco>
+    </contato>
+    <contato>
+        <nome>Maria</nome>
+        <sobrenome>Silva</sobrenome>
+        <email>maria@teste.com</email>
+        <telefone>7777-7777</telefone>
+        <endereco>Rua das Couves</endereco>
+    </contato>
+    <contato>
+        <nome>Zaedy</nome>
+        <sobrenome>Sayao</sobrenome>
+        <email>zaedyjava@gmail.com</email>
+        <telefone>8888-8888</telefone>
+        <endereco>Rua das couves</endereco>
+    </contato>
+</contatos>

@@ -1,0 +1,1 @@
+Lembre de colocar aqui os arquivos do Sencha Touch
